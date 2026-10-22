@@ -69,6 +69,8 @@ Built with Flutter and Supabase, Quaeritate combines my interest in the game wit
 
 **Application Development:** Flutter, Dart, Supabase, Android & Wear OS
 
+**Google Cloud (Hands-on Projects):** Vertex AI (Gemini), BigQuery
+
 ---
 
 I enjoy learning new technologies, challenging my own architectural assumptions, and building things that solve real problems.
